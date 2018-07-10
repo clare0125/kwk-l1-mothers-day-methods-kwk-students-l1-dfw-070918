@@ -4,3 +4,13 @@ end
 
 holiday_greeting
 holiday_greeting("Beyonce","Jay-Z", "Fourth of July")
+
+
+def holiday_greeting(to_person, from_person, topic)
+  to_person=
+  from_person=
+  topic=
+  
+  return "#{to_person} #{from_person} #{topic}"
+end
+  
