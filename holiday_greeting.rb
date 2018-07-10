@@ -12,6 +12,8 @@ def holiday_greeting1(to_person, from_person, topic)
   topic= "Mother's Day"
   
   return "#{to_person} #{from_person} #{topic}"
+  
 end
 
+puts holiday_greeting1 "Happy #{topic}"
 holiday_greeting1
