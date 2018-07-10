@@ -6,11 +6,12 @@ holiday_greeting
 holiday_greeting("Beyonce","Jay-Z", "Fourth of July")
 
 
-def holiday_greeting(to_person, from_person, topic)
+def holiday_greeting1(to_person, from_person, topic)
   to_person=
   from_person=
   topic=
   
   return "#{to_person} #{from_person} #{topic}"
 end
-  
+
+holiday_greeting1
