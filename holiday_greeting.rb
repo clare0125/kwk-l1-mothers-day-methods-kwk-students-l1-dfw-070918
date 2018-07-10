@@ -15,5 +15,5 @@ def holiday_greeting1(to_person, from_person, topic)
   
 end
 
-puts holiday_greeting1 "Happy #{topic}"
+puts holiday_greeting1 "Happy #{topic}, #{to_person}! From #{from_person}"
 holiday_greeting1
